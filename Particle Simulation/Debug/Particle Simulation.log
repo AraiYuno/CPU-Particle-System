@@ -1,0 +1,3 @@
+﻿  Game.cpp
+c:\users\owner\downloads\particle-simulation-master\particle-simulation-master\particle simulation\game.cpp(172): warning C4018: '<': signed/unsigned mismatch
+  Particle Simulation.vcxproj -> C:\Users\Owner\Downloads\Particle-Simulation-master\Particle-Simulation-master\Debug\Particle Simulation.exe
